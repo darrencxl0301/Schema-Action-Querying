@@ -494,15 +494,7 @@ Apache License 2.0 - see [LICENSE](LICENSE) file for details.
 - ℹ️ Include license and copyright notice
 - ℹ️ State changes made to the code
 
----
 
-## 🌟 Star History
-
-If you find this project useful, please ⭐ star the repo! It helps others discover this work.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=darrencxl0301/schema-action-querying&type=Date)](https://star-history.com/#darrencxl0301/schema-action-querying&Date)
-
----
 
 ## 🙏 Acknowledgments
 

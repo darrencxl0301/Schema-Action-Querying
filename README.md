@@ -540,7 +540,7 @@ nvidia-smi  # Should show model loaded, ~90%+ GPU usage during query
 ```
 </details>
 
-**More issues?** [Open a GitHub issue](https://github.com/darrencxl0301/schema-action-querying/issues) with:
+**More issues?** [Open a GitHub issue](https://github.com/darrencxl0301/Schema-Action-Querying/issues) with:
 - Your query
 - Expected vs actual output  
 - Your `metadata.json` structure (redacted if sensitive)
@@ -604,7 +604,7 @@ If this work helps your research or project, please cite:
   title = {Schema-Action-Querying: Multi-Table Text-to-Action with Small Language Models},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/darrencxl0301/schema-action-querying},
+  url = {https://github.com/darrencxl0301/Schema-Action-Querying},
   note = {Achieves 95\%+ accuracy on multi-table queries with 3B models via code-first action planning}
 }
 ```
@@ -647,9 +647,9 @@ Apache License 2.0 - see [LICENSE](LICENSE) file for details.
 **GitHub**: [@darrencxl0301](https://github.com/darrencxl0301)
 
 **Questions?** 
-- 💬 [Open a Discussion](https://github.com/darrencxl0301/schema-action-querying/discussions)
-- 🐛 [Report a Bug](https://github.com/darrencxl0301/schema-action-querying/issues/new?template=bug_report.md)
-- 💡 [Request a Feature](https://github.com/darrencxl0301/schema-action-querying/issues/new?template=feature_request.md)
+- 💬 [Open a Discussion](https://github.com/darrencxl0301/Schema-Action-Querying/discussions)
+- 🐛 [Report a Bug](https://github.com/darrencxl0301/Schema-Action-Querying/issues/new?template=bug_report.md)
+- 💡 [Request a Feature](https://github.com/darrencxl0301/Schema-Action-Querying/issues/new?template=feature_request.md)
 
 ---
 

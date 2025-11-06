@@ -1,0 +1,18 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.35.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Standard library (included in Python)
+# argparse, random, time, warnings, json, os, hashlib, collections, dataclasses, typing, re
+
+# File format support
+openpyxl>=3.1.0
+
+# Model quantization (optional but recommended)
+bitsandbytes>=0.41.0
+accelerate>=0.24.0
+
+# Graph operations for auto-join
+networkx>=3.0

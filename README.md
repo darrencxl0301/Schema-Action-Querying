@@ -2,7 +2,7 @@
 
 > **First multi-table Text-to-Action system powered by small language models (3B params)**
 >
-> Query Excel/CSV files with 90%+ accuracy using only 3B models—no GPT-4, no database setup needed.
+> Query Excel/CSV files with good accuracy using only 3B models—no GPT-4, no database setup needed.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -20,7 +20,7 @@
 - ❌ Expensive API costs for production use
 
 **Our Solution:** 
-- ✅ **3B model** achieves 90%+ accuracy on multi-table queries
+- ✅ **3B model** achieves good accuracy on multi-table queries
 - ✅ **Zero database setup**: Point directly to Excel/CSV files
 - ✅ **Auto-JOIN**: Automatically merges related tables via metadata
 - ✅ **Domain-agnostic**: Works across e-commerce, travel, finance, etc.

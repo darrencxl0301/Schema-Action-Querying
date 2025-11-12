@@ -364,9 +364,9 @@ self.model_3b = AutoModelForCausalLM.from_pretrained(
 | `google/gemma-2b-it` | 2B | 5GB (3GB w/ 4-bit) | ⭐⭐⭐ | Lower memory but reduced accuracy |
 
 **Performance Notes:**
-- ✅ **3B+ models**: 90%+ accuracy (recommended)
-- ⚠️ **2B models**: 85-90% accuracy (acceptable for simple queries)
-- ❌ **< 2B models**: Not recommended (< 80% accuracy)
+- ✅ **3B+ models**: good accuracy (recommended)
+- ⚠️ **2B models**: low accuracy (acceptable for simple queries)
+- ❌ **< 2B models**: Not recommended 
 
 ### Supported Query Types
 

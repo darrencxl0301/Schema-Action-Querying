@@ -389,7 +389,7 @@ self.model_3b = AutoModelForCausalLM.from_pretrained(
 |----------|-----------|----------|------------|
 | GPT-4 Text-to-SQL | 1.7T params | 85% | Database required |
 | LlamaIndex (70B) | 70B params | 82% | Database required |
-| **Schema-Action-Querying** | **3B params** | **90%** | **10 minutes** |
+| **Schema-Action-Querying** | **3B params** | **80+%** | **10 minutes** |
 
 **Why Small Models Work:**
 - Task decomposition: Each 3B model solves ONE simple problem
@@ -605,7 +605,7 @@ If this work helps your research or project, please cite:
   year = {2024},
   publisher = {GitHub},
   url = {https://github.com/darrencxl0301/Schema-Action-Querying},
-  note = {Achieves 90\%+ accuracy on multi-table queries with 3B models via code-first action planning}
+  note = {Achieves good accuracy on multi-table queries with 3B models via code-first action planning}
 }
 ```
 

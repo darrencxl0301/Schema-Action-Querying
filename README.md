@@ -643,7 +643,7 @@ Apache License 2.0 - see [LICENSE](LICENSE) file for details.
 ## 📧 Contact
 
 **Author**: Darren Chai Xin Lun  
-**Email**: darrencxl0301@gmail.com  
+**Email**: ddcxl0301@gmail.com  
 **GitHub**: [@darrencxl0301](https://github.com/darrencxl0301)
 
 **Questions?** 
